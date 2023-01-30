@@ -1,0 +1,29 @@
+  .fotoperfil {
+    display: flex;
+    justify-content: center;
+  }
+  
+ header{display: flex;
+    justify-content: center
+ }
+#nombre{display: flex;
+    justify-content: center;
+    padding-top: 20px;
+
+}
+ #primeros-datos{ 
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+
+}
+.datos{
+    display: flex;
+    padding-right: 20px;
+}
+
+#otros-estudios{
+    display: flex;
+
+}
+  
